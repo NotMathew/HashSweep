@@ -32,9 +32,9 @@ Go to [Releases](https://github.com/NotMathew/HashSweep/releases) and download t
 ```
 git clone https://github.com/NotMathew/HashSweep.git
 cd HashSweep
-sudo python -m pip install -r requirements.txt
 python HashSweep.py
 ```
+
 
 
 
