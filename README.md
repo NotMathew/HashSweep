@@ -1,3 +1,5 @@
+# HashSweep
+
 **📋 Description**
 
 A powerful Python script that identifies and manages duplicate files across your system using SHA-256 hashing for accurate detection. It helps you reclaim valuable disk space by safely removing redundant files while giving you full control over the deletion process.
@@ -34,6 +36,7 @@ git clone https://github.com/NotMathew/HashSweep.git
 cd HashSweep
 python HashSweep.py
 ```
+
 
 
 
