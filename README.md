@@ -27,7 +27,9 @@ A powerful Python script that identifies and manages duplicate files across your
 None! Uses only Python standard library modules
 
 ## Installation on Windows 10/11
-Go to [Releases](https://github.com/NotMathew/HashSweep/releases) and download the lastest version.
+```
+cd Downloads && curl -O https://raw.githubusercontent.com/NotMathew/HashSweep/refs/heads/main/HashSweep.py && python HashSweep.py
+```
 
 ## Installation on Linux
 
@@ -36,6 +38,7 @@ git clone https://github.com/NotMathew/HashSweep.git
 cd HashSweep
 python HashSweep.py
 ```
+
 
 
 
